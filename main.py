@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 
-bot = telebot.TeleBot('5603245198:AAF5ybRrrsMopsKsEBZldmCkujuasDwjfdg')
+bot = telebot.TeleBot('TOKEN')
 
 
 shops = []  # что список покупок
